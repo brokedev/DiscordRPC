@@ -35,4 +35,5 @@ To update your presence for your game, you can use this code (read the image nex
 
 > **Note :** To use image in rich presence you need to upload them on your Discord developer game page (Rich Presence -> Art Assets)
 
-### **More advanced documentation coming soon.**
+## Full Guide
+work in progress
